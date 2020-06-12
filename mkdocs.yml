@@ -1,22 +1,23 @@
 # Project information
-site_name: CPSC406 &mdash; Computational Optimization
-site_description: Home page for CPSC406 Term 2 2019
-site_author: Michael P. Friedlander and Babhru Joshi
-site_url: https://friedlander.io/19T2-406
+site_name: Math101 &mdash; Integral Calculus
+site_description: Home page for Math101 Summer Term 2 2020
+site_author: Babhru Joshi
+site_url: https://babhrujoshi.github.io/20S2-101
 
 # Repository
 # repo_name: mpf/19T2-406
 # repo_url: https://github.com/mpf/19T2-406
 
 # Copyright
-copyright: 'Copyright &copy; 2020 Michael Friedlander and Babhru Joshi'
+copyright: 'Copyright &copy; 2020 Babhru Joshi'
 
 # Configuration
 theme:
   name: 'material'  
   feature:
-    tabs: true
-
+    - tabs
+  # palette:
+  #   scheme: slate
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
@@ -56,34 +57,8 @@ nav:
   - Home Page: index.md
   - Grades: grades.md
   - Schedule: schedule.md
-  - Lecture notes:
-      # - Introduction: notes/introduction.md
-      - Mathematical background: notes/background.md
-      - Least squares: notes/Least_squares.md
-      - QR factorization: notes/QR_factorization.md
-      - Regularized least squares: notes/Regularized_LS.md
-      - Non-linear least squares: notes/Non-linear_LS.md
-      - Unconstrained optimization: notes/unconstrained.md
-      - Gradient descent: notes/Gradient_Descent.md
-      - Newton's method: notes/Newtons_method.md
-      - Quasi-Newton methods: notes/Quasi_newton.md
-    #   - Cholesky factorization: notes/Cholesky_factorization.md
-      - Linear constraint: notes/Linear_constraint.md
-      - Convex sets: notes/Convex_set.md
-      - Constrained optimization: notes/Constrained_optimization.md
-      - Convex function: notes/Convex_function.md
-      - Linear programming: notes/Linear_programming.md
-  - Homework:
-      - Submissions: homework/index.md
-      - Homework 1: homework/hw1/hw1.md
-      - Homework 2: homework/hw2/hw2.md
-      - Homework 3: homework/hw3/hw3.md
-      - Homework 4: homework/hw4/hw4.md
-      - Homework 5: homework/hw5/hw5.md
-  - In-class Activity:
-      - Digit classification: InclassActivity/mlactivity/mlactivity.md
 
 
-google_analytics:
-  - 'UA-4736412-7'
-  - 'auto'
+
+# google_analytics:
+#   - 'auto'

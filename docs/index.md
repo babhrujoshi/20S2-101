@@ -1,23 +1,19 @@
-# Computational Optimization
-
-This course covers the main algorithms for continuous optimization, including unconstrained and constrained problems, large-scale problems, and duality theory and sensitivity. We will also cover numerical linear algebra operations needed in optimization, including LU, QR, and Cholesky decompositions. Discrete optimization problems are not covered.
+This is the web site for MATH 101 in Term 2 of the 2020S session (July to August 2020). 
 
 ## Lectures
-Monday, Wednesday, and Friday, 2-3 pm, DMP 110
+* Monday, Thursday, and Friday: 10-12 am
+* Wednesday: 10-11 am
 
-## Teaching staff (2019 Term 2) 
-* Co-instructor: [Michael P. Friedlander](http://friedlander.io/). Office hours: Monday, 3-4p (ICCS X150)
-* Co-instructor: Babhru Joshi. Office hours: Friday, 3-4p (ICCS X150, table 2)
-* Teaching assistant: Zhenan Fan. Office hours: Tuesday, 2-3p (ICCS X150, table 6) 
-* Teaching Assistant: Huang Fang. Office hours: Thursday 2-3p (ICCS X150, table 4)
+## Teaching staff (2020 Summer Term 2)
+* Co-instructor: [Babhru Joshi](https://babhrujoshi.github.io/)
+* Teaching assistant: Pulkit Gandhi
 
 ## Textbook
-[*Introduction to Nonlinear Optimization: Theory, Algorithms, and Applications with MATLAB*](https://epubs.siam.org/doi/book/10.1137/1.9781611973655), Amir Beck (SIAM, 2014). This book is available online through the UBC Library.
+* We will be using [CLP-2 Integral Calculus](http://www.math.ubc.ca/~CLP/CLP2/) by Joel Feldman, Andrew Rechnitzer, and Elyse Yeager. 
+* There are other free online textbooks you can refer to as well. [See here](https://www.math.ubc.ca/~wachs/Teaching/MATH101/IICPages/notes.shtml)
 
 ## Course requirements
-
-One of CPSC 302, CPSC 303, or MATH 307.
+One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
 
 ## Course discussion board
-
-* Discussion board is hosted on [Piazza](http://piazza.com/ubc.ca/winterterm22019/cpsc406/home). Here is the [link](http://piazza.com/ubc.ca/winterterm22019/cpsc406) to enroll.
+* Discussion board is hosted on Piazza
