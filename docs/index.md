@@ -1,3 +1,4 @@
+# Integral Calculus
 This is the web site for MATH 101 in Term 2 of the 2020S session (July to August 2020). 
 
 ## Lectures
