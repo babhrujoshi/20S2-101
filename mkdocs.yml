@@ -5,8 +5,8 @@ site_author: Babhru Joshi
 site_url: https://babhrujoshi.github.io/20S2-101
 
 # Repository
-# repo_name: mpf/19T2-406
-# repo_url: https://github.com/mpf/19T2-406
+# repo_name: babhrujoshi/20S2-101
+# repo_url: https://github.com/babhrujoshi/20S2-101
 
 # Copyright
 copyright: 'Copyright &copy; 2020 Babhru Joshi'
@@ -16,8 +16,7 @@ theme:
   name: 'material'  
   feature:
     - tabs
-  # palette:
-  #   scheme: slate
+
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
@@ -56,8 +55,8 @@ extra_javascript:
 nav:
   - Home Page: index.md
   - Grades: grades.md
+  - University Policy: university_policy.md
   - Schedule: schedule.md
-
 
 
 # google_analytics:
