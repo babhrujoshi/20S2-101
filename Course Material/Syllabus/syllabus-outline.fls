@@ -1,9 +1,9 @@
-PWD /Users/babhru/Documents/GitHub/20S2-101/Syllabus
+PWD /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.tex
-OUTPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.log
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.tex
+OUTPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
@@ -114,9 +114,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/sectsty/sectsty.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/sectsty/sectsty.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.aux
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.aux
-OUTPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.aux
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux
+OUTPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/sansmathfonts/omlcmssm.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/sansmathfonts/omlcmssm.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/sansmathfonts/omscmsssy.fd
@@ -133,14 +133,14 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-OUTPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-OUTPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.pdf
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+OUTPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+OUTPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
@@ -178,9 +178,9 @@ INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmssi12.tfm
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.aux
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
-INPUT /Users/babhru/Documents/GitHub/20S2-101/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
+INPUT /Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.out
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
