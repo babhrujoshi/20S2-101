@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1592869392 "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.tex" "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.pdf" "syllabus-outline" 1592869393
-  "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux" 1592869393 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.tex" 1592869391 8882 2243f5fbff22f76905d6eee1da80ebc2 ""
+["pdflatex"] 1592869524 "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.tex" "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.pdf" "syllabus-outline" 1592869525
+  "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.aux" 1592869525 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.tex" 1592869524 8878 416ef305ce7d01ccda6a0aea17a2eb63 ""
   "/Users/babhru/Library/texlive/2020/texmf-var/fonts/tfm/public/sauter/cmssbx12.tfm" 1592446729 1208 352255972caa6bdda046e6c72b68820f ""
   "/Users/babhru/Library/texlive/2020/texmf-var/fonts/tfm/public/sauter/cmssbx17.tfm" 1592446734 1208 90620db3f89da34c879d1b97b4e33e57 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -107,13 +107,13 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "syllabus-outline.aux" 1592869393 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "syllabus-outline.out" 1592869392 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "syllabus-outline.tex" 1592869391 8882 2243f5fbff22f76905d6eee1da80ebc2 ""
+  "syllabus-outline.aux" 1592869525 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "syllabus-outline.out" 1592869525 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "syllabus-outline.tex" 1592869524 8878 416ef305ce7d01ccda6a0aea17a2eb63 ""
   (generated)
-  "syllabus-outline.pdf"
-  "syllabus-outline.aux"
-  "syllabus-outline.out"
   "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.log"
   "/Users/babhru/Documents/GitHub/20S2-101/docs/Course Material/Syllabus/syllabus-outline.pdf"
+  "syllabus-outline.pdf"
+  "syllabus-outline.out"
   "syllabus-outline.log"
+  "syllabus-outline.aux"
