@@ -1,0 +1,220 @@
+\documentclass[12pt,usletter]{article} % Default font size
+
+\renewcommand*\familydefault{\sfdefault} 
+
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{sansmathfonts}  % Brings in \scshape
+
+\usepackage[safe]{tipa}
+
+\usepackage{hyperref}
+
+\usepackage{tabu} % for the tables
+
+\usepackage[table]{xcolor}
+\definecolor{headbrown}{HTML}{833C0B}
+\definecolor{textblue}{HTML}{1F4E79}
+
+\usepackage[
+letterpaper,
+left=1.0in,
+right=1.0in,
+top=1.0in,
+bottom=1.0in,
+headheight=1.0in,
+footskip=0.5in
+]{geometry}
+
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Syllabus}
+\lhead{\textbf{MATH 101}}
+\lfoot{\hrule University of British Columbia Vancouver}
+\rfoot{\hrule p.\ \thepage}
+
+\usepackage{enumitem}
+\setlist{nolistsep,leftmargin=*}
+
+\usepackage{sectsty}
+%\sectionfont{\normalsize}
+%\sectionfont{\color{headbrown}\textsc\normalsize\selectfont\sectionrule{0ex}{0pt}{-1ex}{1pt}}
+\sectionfont{\color{headbrown}\textsc\selectfont\sectionrule{0ex}{0pt}{-1ex}{1pt}}
+\sectionfont{\color{headbrown}\scshape\mdseries\selectfont\sectionrule{0ex}{0pt}{-1ex}{1pt}}
+\subsectionfont{\normalsize \it} %Small font for subsections+non bold, italic
+
+
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\newcommand{\funky}{\hbox to 0pt{y}\hbox to 1ex{\hss'\hss}}
+%\newcommand{\musqueam}{\textsf{\textipa{x\textsuperscript{w}m\textschwa\texttheta k\textsuperscript{w}\textschwa\textvbaraccent y\textschwa m}}}
+%\newcommand{\musqueam}{\textsl{\textipa{x\textsuperscript{w}m\textschwa\texttheta k\textsuperscript{w}\textschwa\textvbaraccent y\textschwa m}}}
+\newcommand{\musqueam}{\textipa{\sffamily x\textsuperscript{w}m\textschwa\texttheta k\textsuperscript{w}\textschwa\textvbaraccent y\textschwa m}}
+
+\newcommand{\squamish}{\textipa{skw\textopeno:m\textsci\textesh}}
+\newcommand{\squamalt}{S\underline{k}w\underline{x}w\'u7mesh}
+\newcommand{\stolo}{\textipa{st\'o:l\=o}}
+\newcommand{\tsleilwaututh}{\textipa{s\textschwa l'\'\i lw\textschwa ta\textglotstop}}
+
+
+\begin{center}
+\color{headbrown}
+\LARGE{2020 Summer, Term 2 July 6-August 13, 2020}
+\\
+\medskip
+\large{Math 101 Course Syllabus}
+\\
+\vskip -8pt
+\rule{\textwidth}{2pt}
+\end{center}
+
+\color{textblue}
+
+\section*{Course Information}
+
+\begin{tabu} to \textwidth{ | X[l] | X[l] | X[l] | }
+\hline 
+\textbf{Course Title} & 
+\textbf{Course Code Number} & 
+\textbf{Credit Value} \\
+\hline
+ Integral Calculus with Applications to Physical Sciences
+and Engineering & 
+Math 101 & 
+3 \\
+\hline
+\end{tabu}
+
+\section*{Course website}
+See course website for more details: https://babhrujoshi.github.io/20S2-101/
+
+\section*{Course Requirements}
+
+One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+
+\section*{Contacts}
+
+\begin{tabu} to \textwidth{ | X[l] | X[l] | X[l] | X[l] | }
+\hline 
+\rowcolor{lightgray}
+\textbf{Course Instructor(s)} &
+\textbf{Contact Details} &
+\textbf{Office Location} &
+\textbf{Office Hours} \\
+\hline
+\relax Babhru Joshi &
+\relax b.joshi@math.ubc.ca &
+\relax Online &
+\relax Mondays and Friday 3-4 pm or by appointment \\
+%
+\hline
+\end{tabu}
+
+\section*{Course Structure}
+
+This course will be conducted entirely online. For most lectures, pre-recorded videos will be posted on Canvas before class. You are expected to watch these videos before attending the online lectures. Online lectures will be discussion based where we expand on topics covered in the videos.
+
+\section*{Schedule of Topics}
+
+This is a tentative schedule. It may change often.
+
+\begin{tabu} to \textwidth{ | X[.5] | X[1.5] | X[3.5] | X[1] | }
+\hline \rowcolor{lightgray}
+\textbf{Lecture} & \textbf{Date  Day} & \textbf{Topic} &	\textbf{Section  in CLP-2}\\
+\hline
+\relax 1 & 	\relax 06 July / Mon	 & \relax Introduction, terminology, sequences& 	3.1\\
+\hline
+2 & 	08 July / Wed	 & No lecture	& \\
+\hline
+3	 & 09 July / Thurs	 & Limits of sequences& 	3.1\\
+\hline
+4	 & 10 July / Fri	 & Properties of sequences; Riemann sums	& 3.1, 1.1\\
+\hline
+5	 & 13 July / Mon	 & Definite integrals; the fundamental theorem of calculus& 	1.2, 1.3\\
+\hline
+6 & 15 July / Wed	 & Quiz 1	& \\
+\hline
+7 & 16 July / Thurs	 & FTC continued; indefinite integration, u-substitution	& 1.3\\
+\hline
+8 & 	17 July / Fri	 & Even and odd functions; areas between curves	& 1.4\\
+\hline
+9 & 	20 July / Mon	 & Volumes and work	& 1.5, 2.1\\
+\hline
+10 & 	22 July / Wed	 & Quiz 2	& \\
+\hline
+11 & 	23 July / Thurs	 & Integration by parts, trigonometric integrals& 	1.7, 1.8\\
+\hline
+12 & 	24 July / Fri	 & Integration by trigonometric substitution, partial fraction decompositions& 1.9, 1.10\\
+\hline
+13 & 	27 July / Mon	 & Partial fractions cont., improper integrals& 	1.10, 1.12\\
+\hline
+14 & 	29 July / Wed & 	Quiz 3& \\	\hline
+15 &	30 July / Thurs	 & Average value, centers of mass	& 2.2, 2.3\\
+\hline
+16 & 	31 July / Fri	 & Approximation, separable differential equations	& 1.11, 2.4\\
+\hline
+17 & 	03 August / Mon	 & No lecture (BC day)& \\	\hline
+18 & 	05 August / Wed & 	Quiz 4& \\	\hline
+19 & 	06 August / Thurs & 	Introduction to series, properties and examples, the integral test	& 3.2, 3.3\\
+\hline
+20 & 	07 August / Fri	 & The comparison test, alternating series, absolute and conditional convergence	& 3.3\\
+\hline
+21 & 	10 August / Mon & 	Power series, Taylor series	& 3.5, 3.6\\
+\hline
+22 & 	12 August / Wed & 	Quiz 5& \\	\hline
+23 & 	13 August / Thurs & 	Power series, Taylor series (cont.) / Review	& 3.5, 3.6\\
+\hline
+\end{tabu}
+
+
+\section*{Learning Materials}
+\begin{itemize}
+  \item We will be using CLP-2 Integral Calculus by Joel Feldman, Andrew Rechnitzer, and Elyse Yeager. (http://www.math.ubc.ca/~CLP/CLP2/)
+  \item There are other free online textbooks you can refer to as well. \newline (https://www.math.ubc.ca/~wachs/Teaching/MATH101/IICPages/notes.shtml)
+\end{itemize}
+
+\section*{Assessments of Learning}
+\begin{itemize}
+  \item assignments (Webwork): 20\%
+  \item quizzes (5): 40\%
+  \item final exam: 40\%
+\end{itemize}
+
+\section*{Policies}
+\begin{itemize}
+  \item No makeup exam for quizzes or the final exam. If you missed a quiz you must document a justification.
+  \item Lowest quiz grade will be dropped and only highest 4 of the 5 quizzes will count towards the quiz grade.
+  \item To pass the course you must do the assigned coursework, write the quiz and final exams, pass the final exam, and obtain an overall pass average according to the grading scheme.
+\end{itemize}
+
+\section*{Collaboration}
+You may collaborate and consult with other students in the course, but you must work on your own assignments. If you have collaborated or consulted with someone while working on your assignment, you must acknowledge this explicitly in your submitted assignment. If you are unsure about any of these rules, feel free to consult with your instructor.
+
+\section*{Late homework submissions}
+Each student has a three lecture-day allowance to use throughout the term. For instance, if an assignment is due by Thursday, then submission by Friday counts as one delay; a submission by Monday counts as two delays; a submission by the following Wednesday counts as three delays (and consumes the entire three-day allowance). Apart from using delays, late submissions are not accepted. Once a solution set has been posted, no more late submissions are permitted; consequently, you may not always be able to use all of your delays.
+
+
+
+\section*{University Policies}
+\color{black}
+UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for survivors of sexual violence. UBC values respect for the person and ideas of all members of the academic community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. UBC provides appropriate accommodation for students with disabilities and for religious observances. UBC values academic honesty and students are expected to acknowledge the ideas generated by others and to uphold the highest academic standards in all of their actions.
+Details of the policies and how to access support are available on 
+the  \ \url{https://senate.ubc.ca/policies-resources-support-student-success}{UBC Senate website}.
+
+\section*{Copyright}
+\color{textblue}
+All materials of this course (course handouts, lecture slides, assessments, course readings, etc.) are the intellectual property of the Course Instructor or licensed to be used in this course by the copyright owner. Redistribution of these materials by any means without permission of the copyright holder(s) constitutes a breach of copyright and may lead to academic discipline.
+
+
+\par\vfill\noindent
+\color{black}
+\emph{Version: June 18, 2020}
+\newpage
+\end{document}
